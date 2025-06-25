@@ -5,6 +5,9 @@
 ---
 
 ### 🌱 About Me
+
+Aspiring Mechanical Engineer passionate about innovation, automation, and smart tech. I'm on a mission to build a career that's both growth-oriented and impact-driven—where I can bring real value through my technical skills, fresh ideas, and hunger to learn. With hands-on experience in industrial projects, internships, and research.
+
 - 🛠 Worked on: Library Management System using Java & ENOVIA
 - 🤖 Built: AI-powered Smart Grass Cutter | Voice-Controlled Wheelchair
 - 🔩 Interned at BOSCH — Handled ceramic process planning & testing spark plugs
